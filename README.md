@@ -1,1 +1,1 @@
-Projeto carros a seguir detalhamento completo
+Crud construido com Python e Django. 
